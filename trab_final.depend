@@ -1,0 +1,172 @@
+# depslib dependency file v1.0
+1474550020 source:/home/todos/alunos/ct/a1674412/trab_final/base.c
+	<stdio.h>
+	<stdlib.h>
+	"base.h"
+	"filtros2d.h"
+
+1474550122 /home/todos/alunos/ct/a1674412/trab_final/base.h
+	"imagem.h"
+
+1457547252 /home/todos/alunos/ct/a1674412/trab_final/imagem.h
+
+1457989026 /home/todos/alunos/ct/a1674412/trab_final/filtros2d.h
+	"imagem.h"
+	"geometria.h"
+
+1450290290 /home/todos/alunos/ct/a1674412/trab_final/geometria.h
+
+1474550158 source:/home/todos/alunos/ct/a1674412/trab_final/cores.c
+	<stdio.h>
+	<stdlib.h>
+	<float.h>
+	<math.h>
+	"base.h"
+	"cores.h"
+
+1454599162 /home/todos/alunos/ct/a1674412/trab_final/cores.h
+	"imagem.h"
+
+1450192314 source:/home/todos/alunos/ct/a1674412/trab_final/desenho.c
+	"desenho.h"
+	<stdio.h>
+
+1450192554 /home/todos/alunos/ct/a1674412/trab_final/desenho.h
+	"base.h"
+	"geometria.h"
+	"cores.h"
+	"imagem.h"
+
+1475789044 source:/home/todos/alunos/ct/a1674412/trab_final/filtros2d.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"base.h"
+	"filtros2d.h"
+
+1450290282 source:/home/todos/alunos/ct/a1674412/trab_final/geometria.c
+	"geometria.h"
+
+1471622110 source:/home/todos/alunos/ct/a1674412/trab_final/imagem.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"imagem.h"
+	"base.h"
+
+1475514928 source:/home/todos/alunos/ct/a1674412/trab_final/segmenta.c
+	<stdio.h>
+	<stdlib.h>
+	"base.h"
+	"filtros2d.h"
+	"segmenta.h"
+
+1456169774 /home/todos/alunos/ct/a1674412/trab_final/segmenta.h
+	"imagem.h"
+	"geometria.h"
+
+1495662502 source:/home/todos/alunos/ct/a1674412/trab_final/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"pdi.h"
+
+1454005786 /home/todos/alunos/ct/a1674412/trab_final/pdi.h
+	"imagem.h"
+	"base.h"
+	"cores.h"
+	"geometria.h"
+	"desenho.h"
+	"segmenta.h"
+	"filtros2d.h"
+
+1499267045 source:d:\wagner\trab_final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"pdi.h"
+
+1495833216 d:\wagner\trab_final\pdi.h
+	"imagem.h"
+	"base.h"
+	"cores.h"
+	"geometria.h"
+	"desenho.h"
+	"segmenta.h"
+	"filtros2d.h"
+
+1495833216 d:\wagner\trab_final\imagem.h
+
+1495833216 d:\wagner\trab_final\base.h
+	"imagem.h"
+
+1495833216 d:\wagner\trab_final\cores.h
+	"imagem.h"
+
+1495833216 d:\wagner\trab_final\geometria.h
+
+1495833216 d:\wagner\trab_final\desenho.h
+	"base.h"
+	"geometria.h"
+	"cores.h"
+	"imagem.h"
+
+1495833216 d:\wagner\trab_final\segmenta.h
+	"imagem.h"
+	"geometria.h"
+
+1495833216 d:\wagner\trab_final\filtros2d.h
+	"imagem.h"
+	"geometria.h"
+
+1495833216 source:d:\wagner\trab_final\pdi.c
+	"imagem.c"
+	"base.c"
+	"cores.c"
+	"geometria.c"
+	"desenho.c"
+	"segmenta.c"
+	"filtros2d.c"
+
+1495833216 d:\wagner\trab_final\imagem.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"imagem.h"
+	"base.h"
+
+1495833215 d:\wagner\trab_final\base.c
+	<stdio.h>
+	<stdlib.h>
+	"base.h"
+	"filtros2d.h"
+
+1495833216 d:\wagner\trab_final\cores.c
+	<stdio.h>
+	<stdlib.h>
+	<float.h>
+	<math.h>
+	"base.h"
+	"cores.h"
+
+1495833216 d:\wagner\trab_final\geometria.c
+	"geometria.h"
+
+1495833216 d:\wagner\trab_final\desenho.c
+	"desenho.h"
+	<stdio.h>
+
+1495833216 d:\wagner\trab_final\segmenta.c
+	<stdio.h>
+	<stdlib.h>
+	"base.h"
+	"filtros2d.h"
+	"segmenta.h"
+
+1495833216 d:\wagner\trab_final\filtros2d.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"base.h"
+	"filtros2d.h"
+
